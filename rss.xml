@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>48 do Segundo</title>
+    <description>Seu podcast diário de futebol com Ana e Tom. Todo dia, as principais notícias do futebol brasileiro e mundial, com aquele papo descontraído de quem vive o esporte.</description>
+    <link>https://luhcianoneves.github.io/podfutebol-rss/</link>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0300</lastBuildDate>
+    <itunes:category text="Sports"/>
+    <itunes:author>48 do Segundo</itunes:author>
+    <itunes:owner>
+      <itunes:email>souza.luhciano@gmail.com</itunes:email>
+      <itunes:name>48 do Segundo</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://luhcianoneves.github.io/podfutebol-rss/capa.jpg"/>
+  </channel>
+</rss>
