@@ -13,5 +13,26 @@
       <itunes:name>48 do Segundo</itunes:name>
     </itunes:owner>
     <itunes:image href="https://luhcianoneves.github.io/podfutebol-rss/capa.jpg"/>
-  </channel>
+    <item>
+    <title>🔥 México Vence com 3 Expulsões — Copa 2026 Começa Quente!</title>
+    <description><![CDATA[Ana e Tom estreiam o 48 do Segundo com a cobertura da abertura da Copa do Mundo 2026! Shakira no Azteca, México 2x0 África do Sul com TRÊS cartões vermelhos (recorde desde 2006!), o árbitro brasileiro Wilton Pereira que virou meme, e a expectativa para a estreia do Brasil contra Marrocos.
+
+CAPÍTULOS:
+0:00 — Abertura: a Copa começou!
+1:20 — Show de abertura: Shakira, Maná e Salma Hayek
+3:00 — México 2x0 África do Sul: análise do jogo
+4:30 — Três expulsões: recorde histórico
+5:40 — Wilton Pereira vira meme com inglês
+6:30 — Expectativa para Brasil x Marrocos
+
+🎧 Siga o 48 do Segundo! Todo dia de manhã, o melhor do futebol brasileiro e mundial com Ana e Tom.
+
+#48doSegundo #Copa2026 #México #CopaDoMundo #Futebol]]></description>
+    <enclosure url="https://luhcianoneves.github.io/podfutebol-rss/episodes/podfutebol-2026-06-11.mp3" length="10338905" type="audio/mpeg"/>
+    <guid>48-do-segundo-2026-06-11</guid>
+    <pubDate>Thu, 11 Jun 2026 21:06:15 -0300</pubDate>
+    <itunes:duration>424.3</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+</channel>
 </rss>
